@@ -1,3 +1,5 @@
+**Autor:** Pedro Carvalho da Rocha
+
 # Calculadora Web (Python Flask HTML e JavaScript)
 
 Este projeto é um exemplo didático de como usar **Python + Flask + HTML + JavaScript** para criar uma calculadora simples com páginas de **Soma** e **Subtração**.
